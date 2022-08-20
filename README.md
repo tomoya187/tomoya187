@@ -19,7 +19,7 @@
   <b>About Me: </b>
   <br>
   <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1debef4a-cf0b-4fe2-ba1a-ffd4fb70e6bd/d8wsxp2-5fff95fc-539b-4ccc-85b4-c44dea59cc27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkZWJlZjRhLWNmMGItNGZlMi1iYTFhLWZmZDRmYjcwZTZiZFwvZDh3c3hwMi01ZmZmOTVmYy01MzliLTRjY2MtODViNC1jNDRkZWE1OWNjMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NaSGa_pQLNTBKgQQpBK58azB4woOpfwwPvp9UPLF3Vg" width = "40">
-     :telescope: Just a full tiem stdent trying to stay on topic.
+     :telescope: Just a full time stdent trying to stay on topic.
      <br>
 <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1debef4a-cf0b-4fe2-ba1a-ffd4fb70e6bd/d8wsxp2-5fff95fc-539b-4ccc-85b4-c44dea59cc27.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkZWJlZjRhLWNmMGItNGZlMi1iYTFhLWZmZDRmYjcwZTZiZFwvZDh3c3hwMi01ZmZmOTVmYy01MzliLTRjY2MtODViNC1jNDRkZWE1OWNjMjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NaSGa_pQLNTBKgQQpBK58azB4woOpfwwPvp9UPLF3Vg" width = "40">
      :seedling: Exploring Technical Content Writing.
