@@ -52,6 +52,6 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoya187&show_icons=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoya187&layout=compact&theme=vision-friendly-dark)](https://github.com/tomoya187/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomoya187&layout=compact)](https://github.com/tomoya187/github-readme-stats)
 
 
