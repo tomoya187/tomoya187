@@ -39,12 +39,10 @@
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title = "python" alt = "Python" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title = "c" alt = "C" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title = "c++" alt = "C++" width = 40" height = "40" />&nbsp
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title = "csharp" alt = "CSharp" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title = "css" alt = "CSS" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title = "html" alt = "HTML" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title = "javascript" alt = "Javascript" width = 40" height = "40" />&nbsp
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" title = "php" alt = "PHP" width = 40" height = "40" />&nbsp
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title = "mysql" alt = "MySql" width = 40" height = "40" />&nbsp
 </div>
 
 ---
